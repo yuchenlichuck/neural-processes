@@ -1,5 +1,6 @@
 # The Neural Process Family
 
+
 This repository contains notebook implementations of the following Neural Process variants:
 
 *   Conditional Neural Processes (CNPs)
